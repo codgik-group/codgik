@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @codgik
-- 👀 I’m interested in exploring, coding
-- 🌱 I’m currently learning node.js, php
-- 💞️ I’m looking to collaborate on node.js, php
+- 👋 Hello, There! I’m @codgik
+- 👀 I’m interested in exploring, different code implementations
+- 🌱 I’m currently learning node.js, js, html, css, some php
+- 💞️ I’m looking to collaborate on node.js, html, css
 - 📫 How to reach me at codgik26@gmail.com
 
 <!---
