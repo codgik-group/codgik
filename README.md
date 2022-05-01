@@ -1,3 +1,5 @@
+# CODGIK
+
 - 👋 Hello, There! I’m @codgik
 
 - 👀 I’m interested in exploring, different code implementations
