@@ -1,8 +1,8 @@
 # CODGIK
 
-- 👋 Hello, There! I’m @codgik
+- 👋 Hello There! I’m @codgik
 
-- 👀 I’m interested in exploring, different code implementations
+- 👀 I’m interested in discovering, exploring, and using different code implementations
 
 - 🌱 I’m currently learning node.js, js, html, css, some php
 
