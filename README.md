@@ -1,6 +1,6 @@
-# CODGIK
+# codgik
 
-- 👋 Hello There! I’m @codgik
+- 👋 Hi! @codgik here,
 
 - 👀 I’m interested in discovering, exploring, and using different code implementations
 
@@ -11,6 +11,8 @@
 - 📫 How to reach me at codgik26@gmail.com
 
 <!---
+COMMENTS:
+
 codgik/codgik is a ✨ special ✨ repository because its `README.md`
 (this file) appears on your GitHub profile.
 
