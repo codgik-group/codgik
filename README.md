@@ -4,9 +4,9 @@
 
 - 👀 I’m interested in discovering, exploring, and using different code implementations
 
-- 🌱 I’m currently learning node.js, js, html, css, some php
+- 🌱 I’m currently learning node.js, js, html, css, some php, python, sql
 
-- 💞️ I’m looking to collaborate on node.js, html, css
+- 💞️ I’m looking to collaborate on node.js, js, html, css
 
 - 📫 How to reach me at codgik26@gmail.com
 
