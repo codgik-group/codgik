@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning node.js, js, html, css, some php, python, sql
 
-- 💞️ I’m looking to collaborate on node.js, js, html, css
+- 💞️ I’m looking to collaborate on node.js, js, html, css, php
 
 - 📫 How to reach me at codgik26@gmail.com
 
