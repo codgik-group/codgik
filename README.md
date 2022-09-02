@@ -1,6 +1,6 @@
 # Codgik
 
-- 👋 Hi! @codgik here,
+- 👋 Hi, I'm @codgik!
 
 - 👀 I’m interested in discovering, exploring, and using different web technology implementations
 
